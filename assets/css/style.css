@@ -52,3 +52,13 @@ text-align: right;
 .nav-links ul li:hover::after{
     width: 100%;
 }
+
+.text-box{
+    width: 80%;
+    color: rgb(32, 32, 32);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
