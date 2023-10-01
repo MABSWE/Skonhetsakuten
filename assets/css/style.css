@@ -19,3 +19,7 @@ nav{
     justify-content: space-between;
     align-items: center;
 }
+
+nav img{
+    width: 150px;
+}
