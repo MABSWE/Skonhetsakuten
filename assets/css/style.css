@@ -79,7 +79,7 @@ text-align: right;
     border: 1px solid rgb(32, 32, 32);
     padding: 10px 30px;
     font-size: 13px bold;
-    background: transparent;
+    background: rgba(236, 239, 250, 0.2);
     position: relative;
     cursor: pointer;
     border-radius: 10px;
