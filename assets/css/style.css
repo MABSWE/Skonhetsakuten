@@ -62,3 +62,11 @@ text-align: right;
     transform: translate(-50%, -50%);
     text-align: center;
 }
+.text-box h1{
+    font-size: 50px;
+}
+
+.text-box p{
+    font-size: 20px;
+    margin: 10px 0 20px;
+}
