@@ -26,7 +26,7 @@ nav img{
 /* Nav links style */
 .nav-links{
 flex: 1;
-text text-align: right;
+text-align: right;
 }
 
 .nav-links ul li{
