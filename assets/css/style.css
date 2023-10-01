@@ -35,3 +35,7 @@ text text-align: right;
     padding: 8px 12px;
     position: relative;
 }
+.nav-links ul li a{
+    text-decoration: none;
+    font-size: 20px;
+}
