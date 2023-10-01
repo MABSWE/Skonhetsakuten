@@ -82,4 +82,5 @@ text-align: right;
     background: transparent;
     position: relative;
     cursor: pointer;
+    border-radius: 10px;
 }
