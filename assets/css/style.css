@@ -90,3 +90,9 @@ text-align: right;
     background: rgba(136, 231, 255, 0.568);
     transition: 1s;
 }
+
+@media(max-width: 700px){
+    .text-box h1{
+        font-size: 20px;
+    }
+}
