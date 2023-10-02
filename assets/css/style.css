@@ -84,3 +84,9 @@ text-align: right;
     cursor: pointer;
     border-radius: 10px;
 }
+
+.button1:hover{
+    border: 1px solid rgba(136, 231, 255, 0.568);
+    background: rgba(136, 231, 255, 0.568);
+    transition: 1s;
+}
