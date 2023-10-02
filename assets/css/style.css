@@ -92,6 +92,10 @@ text-align: right;
     transition: 1s;
 }
 
+nav .fa{
+    display: none;
+}
+
 @media(max-width: 768px){
     .text-box h1{
         font-size: 20px;
@@ -108,5 +112,12 @@ text-align: right;
         right: 0;
         text-align: left;
         z-index: 2;
+    }
+    nav .fa{
+        display: block;
+        color: black;
+        margin: 10px;
+        font-size: 22px;
+        cursor: pointer;
     }
 }
