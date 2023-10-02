@@ -22,7 +22,8 @@ nav{
 }
 /* Logo size */
 nav img{
-    width: 150px;
+    width: 2.5vh;
+    height: 2.5vh;
 }
 /* Nav links style */
 .nav-links{
