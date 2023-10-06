@@ -100,9 +100,14 @@ nav .fa{
     display: flex;
     justify-content: space-evenly;
     margin: 0 0;
-    background-color: rgb(255, 151, 151);
+    background-color:grey;
     list-style-type:none;
 
+}
+#social-networks i{
+    font-size:160%;
+    padding:10%;
+    color:black;
 }
 
 @media(max-width: 768px){
