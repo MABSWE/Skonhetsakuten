@@ -17,6 +17,10 @@
     }
 }
 
+.text-box h1{
+    animation: transitionIn 0.7s; 
+}
+
 
 /* Header */
 .header{
