@@ -127,7 +127,7 @@ nav .fa {
     display: flex;
     justify-content: space-evenly;
     margin: 0 0;
-    background-color: rgb(95 113 185);
+    background-color: rgb(84 99 159);
     list-style-type: none;
 
 }
@@ -183,6 +183,7 @@ nav .fa {
     }
     .sub-heading, .footerBottom{
         font-size: small;
+        background-color: rgb(83 97 153);
     }
 }
 
