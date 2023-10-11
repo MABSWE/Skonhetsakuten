@@ -29,7 +29,8 @@
     width: 100%;
     background-image: linear-gradient(rgba(236, 239, 250, 0.7), rgba(8, 32, 129, 0.7)), url(../images/banner.jpg);
     background-position: center;
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
     position: relative;
 }
 
