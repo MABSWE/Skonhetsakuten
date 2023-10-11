@@ -151,8 +151,6 @@ nav .fa {
         display: block;
     }
 
-    }
-
     .nav-links {
         position: fixed;
         background: rgb(249, 237, 255);
@@ -176,9 +174,15 @@ nav .fa {
     .nav-links ul {
         padding: 30px;
     }
-
+}
 
 /*Tablets and larger*/
 @media screen and (min-width: 768px) {
 
+}
+
+/*Laptops and larger*/
+@media screen and (min-width: 992px) {
+    
+    
 }
