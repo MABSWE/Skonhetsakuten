@@ -139,9 +139,12 @@ nav .fa {
 }
 .sub-heading{
     text-align: center;
+    background-color: rgb(83 97 153);
+
 }
 .footerBottom{
     text-align: center;
+    background-color: rgb(83 97 153);
 }
 
 /*Phones max width*/

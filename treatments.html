@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--Meta tags for search engines-->
+    <meta name="description" content="Skonhetsakuten. Beauty saloon in Sweden and Norway Oslo. Beaty treatments">
+    <meta name="keywords"
+        content="skonhetsakuten, skonhet, beaty saloon, beauty treatment, Sweden, Vasteras, lashes, microblading">
+    <!--Title-->
+    <title>Skonhetsakuten</title>
+
+    <!--Favicon-->
+    <link rel="icon" type="image/x-icon" href="assets/favicon/favicon.ico">
+
+    <!--Stylesheet-->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@100;200;300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css">
+</head>
+
+<body>
+    <section class="header">
+        <nav>
+            <img src="assets/images/logo.png">
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times-circle-o" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="about.html">ABOUT</a></li>
+                    <li><a href="treatments.html">TREATMENTS</a></li>
+                    <li><a href="contact.html">CONTACT</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+        </nav>
+        <div class="text-box">
+            <h1>TREATMENTS</h1>
+            <p></p>
+        </div>
+
+    </section>
+    <script src="https://kit.fontawesome.com/6f464bbc42.js" crossorigin="anonymous"></script>
+    <script>
+        var navLinks = document.getElementById("navLinks");
+        function showMenu() {
+            navLinks.style.right = "0";
+        }
+        function hideMenu() {
+            navLinks.style.right = "-200px";
+        }
+
+    </script>
+
+<footer>
+    <h3 class="sub-heading">Follow Us On Social Media For More Content</h3>
+    <ul id="social-networks">
+    
+        <li><a href="https://www.instagram.com/skonhetsakuten/" target="_blank" rel="noopener"
+                aria-label="Visit our Instagram page (opens in a new tab)"><i
+                    class="fa-brands fa-instagram"></i></a>
+        </li>
+        <li><a href="https://www.tiktok.com/@skonhetsakuten" target="_blank" rel="noopener"
+                aria-label="Visit our TikTok page (opens in a new tab)"><i class="fa-brands fa-tiktok"></i></a>
+        </li>
+        <li><a href="https://www.bokadirekt.se/places/skonhetsakuten-36360" target="_blank" rel="noopener"
+                aria-label="Visit our Bokadirekt page (opens in a new tab)"><i class="fa-solid fa-b"></i></a>
+        </li>
+    </ul>
+    <div class="footerBottom">
+        <p>Copyright &copy;2023; Designed by Marat Akbar Boyev</p>
+
+    </div>
+</footer>
+
+</body>
+
+</html>
