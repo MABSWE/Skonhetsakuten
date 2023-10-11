@@ -140,6 +140,9 @@ nav .fa {
 .sub-heading{
     text-align: center;
 }
+.footerBottom{
+    text-align: center;
+}
 
 /*Phones max width*/
 @media(max-width: 768px) {
