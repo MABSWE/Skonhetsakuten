@@ -9,7 +9,7 @@
 @keyframes transitionIn {
     from {
         opacity: 0;
-        transform: rotateX(-10eg);
+        transform: rotateX(-10deg);
     }
 
     to {
@@ -97,6 +97,9 @@ nav img {
     font-size: 20px;
     margin: 10px 0 20px;
     color: rgb(32, 32, 32);
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .button1 {
