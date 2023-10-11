@@ -50,7 +50,7 @@ nav img {
 /* Nav links style */
 .nav-links {
     flex: 1;
-    text-align: right;
+    text-align: center;
 }
 
 .nav-links ul li {
