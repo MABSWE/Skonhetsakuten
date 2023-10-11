@@ -127,7 +127,7 @@ nav .fa {
     display: flex;
     justify-content: space-evenly;
     margin: 0 0;
-    background-color: grey;
+    background-color: rgb(95 113 185);
     list-style-type: none;
 
 }
