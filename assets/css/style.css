@@ -178,12 +178,7 @@ nav .fa {
 }
 
 /*Tablets and larger*/
-@media screen and (min-width: 768px) {
-
-}
+@media screen and (min-width: 768px) {}
 
 /*Laptops and larger*/
-@media screen and (min-width: 992px) {
-    
-    
-}
+@media screen and (min-width: 992px) {}
