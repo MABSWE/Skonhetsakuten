@@ -137,6 +137,9 @@ nav .fa {
     padding: 10%;
     color: black;
 }
+.sub-heading{
+    text-align: center;
+}
 
 /*Phones max width*/
 @media(max-width: 768px) {
