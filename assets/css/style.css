@@ -181,6 +181,9 @@ nav .fa {
     .nav-links ul {
         padding: 30px;
     }
+    .sub-heading, .footerBottom{
+        font-size: small;
+    }
 }
 
 /*Tablets and larger*/
