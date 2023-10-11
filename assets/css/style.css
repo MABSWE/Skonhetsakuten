@@ -154,11 +154,13 @@ nav .fa {
 @media(max-width: 768px) {
     .text-box h1 {
         font-size: 20px;
+        
     }
 
     .text-box p {
         font-size: 10px;
         width: 50%;
+        
     }
 
     .nav-links ul li {
@@ -195,7 +197,20 @@ nav .fa {
 }
 
 /*Tablets and larger*/
-@media screen and (min-width: 768px) {}
+@media screen and (min-width: 768px) {
+        .text-box p {
+        font-size: 20px;
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
 
 /*Laptops and larger*/
-@media screen and (min-width: 992px) {}
+@media screen and (min-width: 992px) {
+    .text-box p {
+        font-size: 20px;
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+}
