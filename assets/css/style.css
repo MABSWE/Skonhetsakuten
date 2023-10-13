@@ -152,8 +152,8 @@ nav .fa {
 
 /*Utube video*/
 .container{
-    width: 380px;
-    height: 480px;
+   display: flex;
+   justify-content: flex-end;
 
 }
 
