@@ -18,7 +18,9 @@
     }
 }
 
-.text-box h1, h3, p{
+.text-box h1,
+h3,
+p {
     animation: transitionIn 0.7s;
 }
 
@@ -140,21 +142,23 @@ nav .fa {
     padding: 10%;
     color: black;
 }
-.sub-heading{
+
+.sub-heading {
     text-align: center;
     background-color: rgb(83 97 153);
 
 }
-.footerBottom{
+
+.footerBottom {
     text-align: center;
     background-color: rgb(83 97 153);
 }
 
 /*Utube video*/
-.container{
-   display: flex;
-   justify-content: center;
-   animation: transitionIn 0.7s;
+.container {
+    display: flex;
+    justify-content: center;
+    animation: transitionIn 0.7s;
 
 }
 
@@ -162,16 +166,16 @@ nav .fa {
 @media(max-width: 768px) {
     .text-box h1 {
         font-size: 20px;
-        
+
     }
 
     .text-box p {
         font-size: 10px;
         width: 50%;
-        
+
     }
 
-    .text-box h3{
+    .text-box h3 {
         font-size: 10px;
     }
 
@@ -202,24 +206,16 @@ nav .fa {
     .nav-links ul {
         padding: 30px;
     }
-    .sub-heading, .footerBottom{
+
+    .sub-heading,
+    .footerBottom {
         font-size: small;
         background-color: rgb(83 97 153);
     }
-}
+/*Continue here, display of the utube video*/
 
 /*Tablets and larger*/
-@media screen and (min-width: 768px) {
-        .text-box p {
-        font-size: 20px;
-        width: 50%;
-        margin-left: auto;
-        margin-right: auto;
-    }
-}
-
-/*Laptops and larger*/
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 768px){
     .text-box p {
         font-size: 20px;
         width: 50%;
@@ -227,4 +223,3 @@ nav .fa {
         margin-right: auto;
     }
 }
-   
