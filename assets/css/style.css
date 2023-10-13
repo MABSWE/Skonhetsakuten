@@ -150,6 +150,13 @@ nav .fa {
     background-color: rgb(83 97 153);
 }
 
+/*Utube video*/
+.container{
+    width: 380px;
+    height: 480px;
+
+}
+
 /*Phones max width*/
 @media(max-width: 768px) {
     .text-box h1 {
