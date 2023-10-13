@@ -154,6 +154,7 @@ nav .fa {
 .container{
    display: flex;
    justify-content: center;
+   animation: transitionIn 0.7s;
 
 }
 
