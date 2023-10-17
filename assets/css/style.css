@@ -82,14 +82,11 @@ nav img {
 }
 
 .text-box {
-    width: 80%;
     color: rgb(32, 32, 32);
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    position: relative;
     text-align: center;
 }
+  
 
 .text-box h1 {
     font-size: 50px;
