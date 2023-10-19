@@ -5,7 +5,6 @@
     overflow: auto;
 }
 
-
 /*Transition*/
 @keyframes transitionIn {
     from {
@@ -152,6 +151,15 @@ nav .fa {
     background-color: rgb(83 97 153);
 }
 
+.map{
+    width: 60%;
+    margin-left: 20%;
+    display: flex;
+}
+.video-container{
+    width: 100%;
+}
+
 /*Utube video*/
 .container iframe {
     aspect-ratio: 16/9;
@@ -211,9 +219,6 @@ nav .fa {
         background-color: rgb(83 97 153);
     }
 
-    .map {
-    
-    }
 
     /*Continue here, display of the utube video*/
 }
