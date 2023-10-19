@@ -186,6 +186,19 @@ nav .fa {
 .form {
     text-align: center;
 }
+.send-button{
+    background-color: rgba(255, 255, 255, 0.212);
+    
+}
+#message{
+    background-color: rgba(255, 255, 255, 0.212);
+}
+#email_address{
+    background-color: rgba(255, 255, 255, 0.212);
+}
+#_name{
+    background-color: rgba(255, 255, 255, 0.212);
+}
 
 /*Phones max width*/
 @media(max-width: 768px) {
