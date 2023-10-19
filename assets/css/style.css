@@ -169,6 +169,10 @@ nav .fa {
     display: flex;
     overflow: hidden;
 }
+.utubevideo-container{
+    width: 100%;
+
+}
 
 /*Phones max width*/
 @media(max-width: 768px) {
