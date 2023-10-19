@@ -171,7 +171,12 @@ nav .fa {
 }
 .utubevideo-container{
     width: 100%;
+    
 
+}
+/*Mailing-List*/
+.mail-list{
+    text-align: center;
 }
 
 /*Phones max width*/
