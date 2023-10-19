@@ -151,6 +151,7 @@ nav .fa {
     background-color: rgb(83 97 153);
 }
 
+/*Map*/
 .map{
     width: 60%;
     margin-left: 20%;
@@ -162,10 +163,11 @@ nav .fa {
 }
 
 /*Utube video*/
-.container iframe {
-    aspect-ratio: 16/9;
-    width: 100%;
-    animation: transitionIn 0.7s;
+.container {
+    width: 60%;
+    margin-left: 20%;
+    display: flex;
+    overflow: hidden;
 }
 
 /*Phones max width*/
@@ -220,8 +222,6 @@ nav .fa {
         background-color: rgb(83 97 153);
     }
 
-
-    /*Continue here, display of the utube video*/
 }
 
 /*Tablets and larger*/
