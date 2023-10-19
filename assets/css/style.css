@@ -86,7 +86,7 @@ nav img {
     position: relative;
     text-align: center;
 }
-  
+
 
 .text-box h1 {
     font-size: 50px;
@@ -152,14 +152,15 @@ nav .fa {
 }
 
 /*Utube video*/
-.container {
-    display: flex;
-    justify-content: center;
+.container iframe {
+    aspect-ratio: 16/9;
+    width: 100%;
     animation: transitionIn 0.7s;
-
 }
+
 /*Phones max width*/
 @media(max-width: 768px) {
+
     .text-box h1 {
         font-size: 20px;
 
@@ -208,15 +209,16 @@ nav .fa {
         font-size: small;
         background-color: rgb(83 97 153);
     }
-    .map{
+
+    .map {
         text-align:center;
-        
     }
-/*Continue here, display of the utube video*/
+
+    /*Continue here, display of the utube video*/
 }
 
 /*Tablets and larger*/
-@media screen and (min-width: 768px){
+@media screen and (min-width: 768px) {
     .text-box p {
         font-size: 20px;
         width: 50%;
