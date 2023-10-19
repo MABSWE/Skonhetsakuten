@@ -152,13 +152,14 @@ nav .fa {
 }
 
 /*Map*/
-.map{
+.map {
     width: 60%;
     margin-left: 20%;
     display: flex;
     overflow: hidden;
 }
-.video-container{
+
+.video-container {
     width: 100%;
 }
 
@@ -169,14 +170,21 @@ nav .fa {
     display: flex;
     overflow: hidden;
 }
-.utubevideo-container{
+
+.utubevideo-container {
     width: 100%;
-    
+
 
 }
+
 /*Mailing-List*/
-.mail-list{
+.mail-list {
     text-align: center;
+}
+
+/*Form*/
+.form {
+    margin-left: 40%;
 }
 
 /*Phones max width*/
