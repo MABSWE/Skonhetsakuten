@@ -155,6 +155,7 @@ nav .fa {
     width: 60%;
     margin-left: 20%;
     display: flex;
+    overflow: hidden;
 }
 .video-container{
     width: 100%;
