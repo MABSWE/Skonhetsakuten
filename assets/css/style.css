@@ -124,8 +124,10 @@ nav img {
 
 /*Picture Container*/
 .pic-container{
-    width: 700px;
     display: flex;
+}
+.pic-container img{
+    width: 1200px;
 }
 
 nav .fa {
