@@ -81,6 +81,7 @@ nav img {
     width: 100%;
 }
 
+
 .text-box {
     color: rgb(32, 32, 32);
     position: relative;
@@ -101,6 +102,7 @@ nav img {
     margin-right: auto;
 }
 
+/*Hover Button*/
 .button1 {
     display: inline-block;
     text-decoration: none;
@@ -118,6 +120,12 @@ nav img {
     border: 1px solid rgba(136, 231, 255, 0.568);
     background: rgba(136, 231, 255, 0.568);
     transition: 1s;
+}
+
+/*Picture Container*/
+.pic-container{
+    width: 700px;
+    display: flex;
 }
 
 nav .fa {
@@ -173,8 +181,6 @@ nav .fa {
 
 .utubevideo-container {
     width: 100%;
-
-
 }
 
 /*Mailing-List*/
