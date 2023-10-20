@@ -125,9 +125,13 @@ nav img {
 /*Picture Container*/
 .pic-container{
     display: flex;
+    max-width: 600px;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
 }
 .pic-container img{
-    width: 1200px;
+    width: 200px;
 }
 
 nav .fa {
