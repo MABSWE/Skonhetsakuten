@@ -136,6 +136,9 @@ nav img {
     border-radius: 45px;
     opacity: 0.8;
 }
+.pic-container img:hover {
+    opacity: 1;
+    transition: 1s;
 
 nav .fa {
     display: none;
