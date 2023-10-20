@@ -128,9 +128,12 @@ nav img {
     flex-wrap: wrap;
     width: 100%;
     justify-content: center;
+
 }
 .pic-container img{
     width: 355px;
+    padding: 10px;
+    border-radius: 45px;
 }
 
 nav .fa {
