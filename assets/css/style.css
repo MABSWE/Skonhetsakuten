@@ -5,6 +5,7 @@
     overflow: auto;
 }
 
+
 /*Transition*/
 @keyframes transitionIn {
     from {
@@ -165,6 +166,7 @@ nav .fa {
     margin: 0 0;
     background-color: rgb(84 99 159);
     list-style-type: none;
+    padding: 1em;
 
 }
 
