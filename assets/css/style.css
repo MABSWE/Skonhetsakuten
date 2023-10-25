@@ -91,7 +91,7 @@ nav img {
 
 
 .text-box h1 {
-    font-size: 50px;
+    font-size: 3vh;
 }
 
 .text-box p {
@@ -159,6 +159,7 @@ nav .fa {
     display: none;
 }
 
+/*Footer*/
 #social-networks {
     text-align: center;
     display: flex;
@@ -182,7 +183,7 @@ nav .fa {
 
 }
 
-/*Footer*/
+
 .footerBottom {
     text-align: center;
     background-color: rgb(83 97 153);
@@ -247,7 +248,7 @@ nav .fa {
 @media(max-width: 768px) {
 
     .text-box h1 {
-        font-size: 20px;
+        font-size: 2vh;
 
     }
 
