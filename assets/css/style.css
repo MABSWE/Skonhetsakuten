@@ -172,13 +172,13 @@ nav .fa {
 
 #social-networks i {
     font-size: 160%;
-    padding: 10%;
+    padding: auto;
     color: black;
 }
 
 .sub-heading {
     text-align: center;
-    background-color: rgb(83 97 153);
+    background-color: rgb(137, 160, 255);
 
 }
 
