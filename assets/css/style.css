@@ -123,25 +123,32 @@ nav img {
 }
 
 /*Picture Container*/
-.pic-container{
+.pic-container {
     display: flex;
     flex-wrap: wrap;
     width: 100%;
     justify-content: center;
-
 }
-.pic-container img{
+
+.pic-container img {
     width: 355px;
     padding: 10px;
     border-radius: 45px;
     opacity: 0.8;
 }
 
-.pic-container img:hover{
+.pic-container img:hover {
     opacity: 1;
     transition: 1s;
 }
-    
+/*Treatments with price*/
+.treatments {
+    text-align: center;
+}
+.treatments p{
+    background-color: red
+}
+
 
 nav .fa {
     display: none;
@@ -169,6 +176,7 @@ nav .fa {
 
 }
 
+/*Footer*/
 .footerBottom {
     text-align: center;
     background-color: rgb(83 97 153);
@@ -207,22 +215,27 @@ nav .fa {
 .form {
     text-align: center;
 }
-.send-button{
+
+.send-button {
     background-color: rgba(255, 255, 255, 0.212);
-    
+
 }
-#message{
-    background-color: rgba(255, 255, 255, 0.212);
-}
-#email_address{
-    background-color: rgba(255, 255, 255, 0.212);
-}
-#_name{
+
+#message {
     background-color: rgba(255, 255, 255, 0.212);
 }
+
+#email_address {
+    background-color: rgba(255, 255, 255, 0.212);
+}
+
+#_name {
+    background-color: rgba(255, 255, 255, 0.212);
+}
+
 ::placeholder {
     color: black;
-  }
+}
 
 /*Phones max width*/
 @media(max-width: 768px) {
