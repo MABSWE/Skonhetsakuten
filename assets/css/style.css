@@ -249,6 +249,10 @@ nav .fa {
 /*Phones max width*/
 @media(max-width: 768px) {
 
+    .text-box h2{
+        font-size: 2vh;
+    }
+
     .text-box h1 {
         font-size: 2vh;
 
