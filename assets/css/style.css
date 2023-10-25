@@ -295,6 +295,12 @@ nav .fa {
         font-size: small;
         background-color: rgb(83 97 153);
     }
+    .pic-container img {
+        width: 150px;
+        padding: 10px;
+        border-radius: 45px;
+        opacity: 0.8;
+    }
 
 }
 
