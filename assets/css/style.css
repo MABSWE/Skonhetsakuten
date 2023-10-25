@@ -87,6 +87,7 @@ nav img {
     color: rgb(32, 32, 32);
     position: relative;
     text-align: center;
+    margin-bottom: 44px;
 }
 
 
@@ -115,6 +116,7 @@ nav img {
     position: relative;
     cursor: pointer;
     border-radius: 10px;
+    margin-bottom: 44px;
 }
 
 .button1:hover {
