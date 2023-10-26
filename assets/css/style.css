@@ -266,10 +266,14 @@ nav .fa {
     }
 
     .text-box p {
-        font-size: 10px;
-        width: 50%;
+        font-size: 15px;
+        width: 70%;
 
     }
+    #info{
+        font-size: 15px;
+        width: 50%;
+        border: 1px solid rgb(32, 32, 32);}
 
     .text-box h3 {
         font-size: 1em;
