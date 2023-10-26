@@ -125,7 +125,6 @@ nav img:hover {
     color: rgb(0, 0, 0);
     border: 1px solid rgb(32, 32, 32);
     padding: 10px 30px;
-    font-size: 13px bold;
     background: rgba(236, 239, 250, 0.2);
     position: relative;
     cursor: pointer;
