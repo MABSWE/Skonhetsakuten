@@ -223,6 +223,7 @@ nav .fa {
     margin-left: 20%;
     display: flex;
     overflow: hidden;
+    justify-content: center;
 }
 
 .utubevideo-container {
