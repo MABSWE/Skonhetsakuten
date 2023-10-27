@@ -250,6 +250,7 @@ nav .fa {
 
 #message {
     background-color: rgb(255 255 255 / 66%);
+    margin-top: 10px;
 }
 
 #email_address {
@@ -258,6 +259,7 @@ nav .fa {
 
 #_name {
     background-color: rgb(255 255 255 / 66%);
+    margin-top: 10px;
 }
 
 ::placeholder {
