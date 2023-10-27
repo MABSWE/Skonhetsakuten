@@ -115,7 +115,10 @@ nav img:hover {
 #info {
     font-size: 15px;
     width: 33%;
-    border: 1px solid rgb(32, 32, 32);
+    background-color: azure;
+    margin-bottom: 10vh;
+    padding: 1vh;
+    border-radius: 10px;
 }
 
 /*Hover Button*/
