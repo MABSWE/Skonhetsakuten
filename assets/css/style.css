@@ -249,15 +249,15 @@ nav .fa {
 }
 
 #message {
-    background-color: rgba(255, 255, 255, 0.212);
+    background-color: rgb(255 255 255 / 66%);
 }
 
 #email_address {
-    background-color: rgba(255, 255, 255, 0.212);
+    background-color: rgb(255 255 255 / 66%);
 }
 
 #_name {
-    background-color: rgba(255, 255, 255, 0.212);
+    background-color: rgb(255 255 255 / 66%);
 }
 
 ::placeholder {
