@@ -5,10 +5,6 @@
     overflow: auto;
 }
 
-iframe{
-    width: 560px;
-    height: 315px;
-}
 /*Transition*/
 @keyframes transitionIn {
     from {
@@ -167,6 +163,7 @@ nav img:hover {
 /*Treatments*/
 .treatments {
     text-align: center;
+    font-size: 3vh;
 }
 
 
@@ -177,11 +174,12 @@ nav img:hover {
 
     flex-wrap: wrap;
     width: 50%;
-    
+
 }
+
 .treatments-section p {
     margin-bottom: 3vh;
-    
+
 }
 
 
