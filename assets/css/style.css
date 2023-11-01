@@ -161,7 +161,7 @@ nav img:hover {
     transition: 1s;
 }
 
-/*Treatments with price*/
+/*Treatments*/
 .treatments {
     text-align: center;
 }
@@ -169,13 +169,16 @@ nav img:hover {
 
 .treatments-section {
     display: flex;
-    flex-direction: column;
-    width: 50%;
     text-align: center;
     margin: auto;
+
+    flex-wrap: wrap;
+    width: 50%;
+    
 }
-.treatments-section p{
-    margin-bottom: 5vh;
+.treatments-section p {
+    margin-bottom: 3vh;
+    
 }
 
 
