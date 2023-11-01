@@ -207,7 +207,6 @@ nav .fa {
 .sub-heading {
     text-align: center;
     background-color: rgb(137, 160, 255);
-
 }
 
 
@@ -252,6 +251,14 @@ nav .fa {
 /*Form*/
 .form {
     text-align: center;
+    overflow: hidden;
+
+    display: grid;
+
+    padding: 1.875rem 0.75rem;
+    justify-content: center;
+    width: 85%;
+    margin: 0 auto;
 }
 
 .send-button {
