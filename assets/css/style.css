@@ -299,6 +299,11 @@ nav .fa {
         font-size: 5vh;
 
     }
+    #skonheth1{
+        letter-spacing: 1em;
+        overflow: hidden;
+        font-size: medium;
+    }
     #treatments{
         font-size: 5vh;
     }
@@ -369,5 +374,9 @@ nav .fa {
         width: 50%;
         margin-left: auto;
         margin-right: auto;
+    }
+    #skonheth1{
+        letter-spacing: 1em;
+        overflow: hidden;
     }
 }
