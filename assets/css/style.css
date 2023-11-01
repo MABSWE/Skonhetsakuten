@@ -169,9 +169,13 @@ nav img:hover {
 
 .treatments-section {
     display: flex;
-    justify-content:center;
     flex-direction: column;
-
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+.treatments-section p{
+    margin-bottom: 5vh;
 }
 
 
