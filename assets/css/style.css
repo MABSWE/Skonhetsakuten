@@ -296,8 +296,11 @@ nav .fa {
     }
 
     .text-box h1 {
-        font-size: 2vh;
+        font-size: 5vh;
 
+    }
+    #treatments{
+        font-size: 5vh;
     }
 
     .text-box p {
