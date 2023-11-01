@@ -163,9 +163,11 @@ nav img:hover {
 /*Treatments*/
 .treatments {
     text-align: center;
-    font-size: 3vh;
 }
-
+#treatments{
+    font-size: 3vh;
+    text-align: center;
+}
 
 .treatments-section {
     display: flex;
