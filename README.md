@@ -12,7 +12,8 @@ Traditionally, customers interested in booking treatments often encountered hurd
 ## Features
 
 - Navigation bar
-Navigation bar – The website features a user-friendly navigation bar, offering easy access to essential sections, including Home, About, Treatments, and Contact. This intuitive navigation ensures that users can swiftly explore the website and find the information they need.
+
+The website features a user-friendly navigation bar, offering easy access to essential sections, including Home, About, Treatments, and Contact. This intuitive navigation ensures that users can swiftly explore the website and find the information they need.
 This streamlines the customer experience, making it more efficient, accessible, and satisfying for everyone involved.
 
 ![Screenshot](assets/images/nav.JPG)
@@ -22,28 +23,33 @@ Notably, the navigation bar is thoughtfully customized for mobile phones, provid
 <p align="center"> <img src=assets/images/nav_phone.JPG> </p>
 
 - Home section
+
 The "Home" section serves as the welcoming gateway to the website, providing customers with a visually appealing introduction to the salon and the convenience of booking appointments for a wide range of treatments. To offer customers a better understanding of what the salon is all about, pictures of the facility are included, showcasing the serene and inviting atmosphere where the treatments take place. These images provide a sneak peek into the ambiance, cleanliness, and comfort the customer can expect.
 There is an external link that allows customers to book appointments for their desired treatments with just a click. This link seamlessly connects the customers to the appointment booking platform, making the process of scheduling treatments a breeze.
 
 ![Screenshot](assets/images/home.JPG)
 
 - About
+
 The "About" section offers an in-depth look into the salon. A featured video provides a firsthand view of the work, highlighting the expertise and care that goes into every treatment that offers. In this section outlines the comprehensive precautions that are taken to ensure a hygienic and secure environment for both customers and staff. Additionally, the customer can explore the essence of the salon, from its history to the mission, and get to know the dedicated team that makes the commitment to exceptional service a reality. "About" is the place where the customer can connect with the heart of the establishment.
 
 ![Screenshot](assets/images/about.JPG)
 
 - Treatments
+
 In this section, the customers will find comprehensive information about each treatment that is offered. There is provided details about the procedure, expected results, pricing, and any special considerations. To make customers experience seamless, there is also an included external link button for booking each treatment. This button allows the customers to easily schedule appointments for their chosen treatments, ensuring that they can access the services with convenience and efficiency.
 
 ![Screenshot](assets/images/treatments.JPG)
 
 - Contact
+
 The "Contact" section is designed to provide with easy access to the salon and the assistance that the customer may need. In this section there is a map, offering clear guidance to locate the salon. The address is readily available, ensuring an easily note of the location and plan the visit with confidence. This section also includes phone number.
 To make reaching out even more convenient, there is an included contact form. This form allows to send messages directly, providing a convenient channel for reaching the team
 
 ![Screenshot](assets/images/contact.JPG)
 
 - Footer
+
 The footer section includes quick links for staying connected and accessing additional information. Visitors can find links to their TikTok and Instagram profiles for more media and updates. For the utmost convenience in scheduling appointments, there is a direct link to "Bokadirekt," allowing users to book treatments seamlessly. The footer serves as a hub for visitors to stay engaged with the salon, keep up with the latest updates, and ensure smooth and efficient appointment booking.
 
 ![Screenshot](assets/images/footer.JPG)
@@ -54,11 +60,13 @@ In preparing this project, extensive testing was conducted to ensure that all it
 ## Validator Tests
 
 - HTML
-Error “ The frameborder attribute on the iframe element is obsolete. Use CSS instead “ were returned when passing through the official W3C validator. An easy fix was to delete the “frame border=0”.
+
+Error: “The frameborder attribute on the iframe element is obsolete. Use CSS instead “ were returned when passing through the official W3C validator. An easy fix was to delete the “frame border=0”.
 
 ![Screenshot](assets/images/error.JPG)
 
 - CSS
+
 No errors were found when passing through the official (Jigsaw) validator.
 
 ## Deployment
