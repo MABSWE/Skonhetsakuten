@@ -60,3 +60,16 @@ Error “ The frameborder attribute on the iframe element is obsolete. Use CSS i
 
 - CSS
 No errors were found when passing through the official (Jigsaw) validator.
+
+## Deployment
+
+The website has been deployed on GitHub Pages. The deployment process involves the following steps:
+
+- Go to the "Settings" tab within your GitHub repository
+
+- In the "Source" section, select the "Master Branch" from the drop-down menu
+
+- After selecting the master branch, the page will automatically refresh, and you will see a ribbon display indicating the successful deployment
+
+The live link can be found here - https://mabswe.github.io/Skonhetsakuten/index.html
+
