@@ -87,11 +87,11 @@ The live link can be found here - https://mabswe.github.io/Skonhetsakuten/index.
 * The favicon, image on the top-left and the background image are creation and belong to the company
 
 ## Thanks
-* Rahul Lakhanpal: Code Institute Mentor.
+* Rahul Lakhanpal: Code Institute Mentor.\
 Grateful for my mentor's invaluable guidance and support throughout the project. Thank you for your unwavering assistance and expertise.
 
-* David Calikes: Code Institute Cohort Facilitator.
+* David Calikes: Code Institute Cohort Facilitator.\
 Thanks David, for being a steadfast supporter during my challenges. Your unwavering encouragement meant a lot and made a difference.
 
-* The Slack Community
+* The Slack Community\
 Gratitude to the supportive Slack Community for answering my questions and helping me overcome barriers. Your assistance was invaluable. Thank you!
