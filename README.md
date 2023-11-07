@@ -3,7 +3,7 @@ Welcome to Skönhetsakuten – your one-stop solution for hassle-free scheduling
 
 
 
-![Screenshot](/workspaces/Skonhetsakuten/assets/images/skonhet_mockup.JPG)
+![Screenshot](assets/images/skonhet_mockup.JPG)
 
 
 ## The Problem It solves
