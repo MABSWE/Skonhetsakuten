@@ -80,3 +80,8 @@ The live link can be found here - https://mabswe.github.io/Skonhetsakuten/index.
 * Inspiration on how to make responsive images was taken from [This Youtube Video](https://www.youtube.com/watch?v=QmZNFnqwu74&list=PLdwoDZXm0vRN_McH2ZSxvSyX2u49zsZFm&index=3)
 * The icons in the footer and the navigation bar on smaller screen, were taken from [Fontawsome](https://fontawesome.com/)
 * The map in the “Contact” page was taken from [Google Maps](https://www.google.com/maps)
+
+## Media
+* The four images used in the home section where all taken by the developer, the other two were taken from [Pexels](https://www.pexels.com)
+* The video shown in the “About” section is taken [Youtube](https://youtu.be/Cwy7LBGqOWU?si=ec37eBBoYzS9slwr), which is a open source site
+* The favicon, image on the top-left and the background image are creation and belong to the company
