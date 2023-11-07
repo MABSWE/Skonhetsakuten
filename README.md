@@ -43,3 +43,7 @@ To make reaching out even more convenient, there is an included contact form. Th
 
 ![Screenshot](assets/images/contact.JPG)
 
+- Footer
+The footer section includes quick links for staying connected and accessing additional information. Visitors can find links to their TikTok and Instagram profiles for more media and updates. For the utmost convenience in scheduling appointments, there is a direct link to "Bokadirekt," allowing users to book treatments seamlessly. The footer serves as a hub for visitors to stay engaged with the salon, keep up with the latest updates, and ensure smooth and efficient appointment booking.
+
+![Screenshot](assets/images/footer.JPG)
