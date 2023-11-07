@@ -76,7 +76,7 @@ The live link can be found here - https://mabswe.github.io/Skonhetsakuten/index.
 # Credits
 
 ## Content
-* Instructions on how to implement form validation on the "Contact" page was taken from [Here](https://youtu.be/E5MEzC0prd4?si=4RoqkRT1HJv6EUEK)
-* Inspiration on how to make responsive images was taken from [Here](https://www.youtube.com/watch?v=QmZNFnqwu74&list=PLdwoDZXm0vRN_McH2ZSxvSyX2u49zsZFm&index=3)
+* Instructions on how to implement form validation on the "Contact" page was taken from [This Youtube Video](https://youtu.be/E5MEzC0prd4?si=4RoqkRT1HJv6EUEK)
+* Inspiration on how to make responsive images was taken from [This Youtube Video](https://www.youtube.com/watch?v=QmZNFnqwu74&list=PLdwoDZXm0vRN_McH2ZSxvSyX2u49zsZFm&index=3)
 * The icons in the footer and the navigation bar on smaller screen, were taken from [Fontawsome](https://fontawesome.com/)
 * The map in the “Contact” page was taken from [Google Maps](https://www.google.com/maps)
