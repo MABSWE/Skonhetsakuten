@@ -19,7 +19,7 @@ This streamlines the customer experience, making it more efficient, accessible, 
 
 Notably, the navigation bar is thoughtfully customized for mobile phones, providing an equally seamless experience for users on smaller screens. Whether you're using a desktop or a mobile device, the navigation bar is designed for optimal usability and accessibility.
 
-<p align="center"> ![Screenshot](assets/images/nav_phone.JPG) </p>
+<p align="center"> <img src=assets/images/nav_phone.JPG> </p>
 
 - Home section
 The "Home" section serves as the welcoming gateway to the website, providing customers with a visually appealing introduction to the salon and the convenience of booking appointments for a wide range of treatments. To offer customers a better understanding of what the salon is all about, pictures of the facility are included, showcasing the serene and inviting atmosphere where the treatments take place. These images provide a sneak peek into the ambiance, cleanliness, and comfort the customer can expect.
