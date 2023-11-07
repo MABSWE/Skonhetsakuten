@@ -44,9 +44,13 @@ In this section, the customers will find comprehensive information about each tr
 - Contact
 
 The "Contact" section is designed to provide with easy access to the salon and the assistance that the customer may need. In this section there is a map, offering clear guidance to locate the salon. The address is readily available, ensuring an easily note of the location and plan the visit with confidence. This section also includes phone number.
-To make reaching out even more convenient, there is an included contact form. This form allows to send messages directly, providing a convenient channel for reaching the team
+
 
 ![Screenshot](assets/images/contact.JPG)
+
+To make reaching out even more convenient, there is an included contact form. This form allows to send messages directly, providing a convenient channel for reaching the team
+
+<p align="center"> <img src=assets/images/form.JPG> </p>
 
 - Footer
 
