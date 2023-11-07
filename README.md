@@ -30,4 +30,4 @@ There is an external link that allows customers to book appointments for their d
 - About
 The "About" section offers an in-depth look into the salon. A featured video provides a firsthand view of the work, highlighting the expertise and care that goes into every treatment that offers. In this section outlines the comprehensive precautions that are taken to ensure a hygienic and secure environment for both customers and staff. Additionally, the customer can explore the essence of the salon, from its history to the mission, and get to know the dedicated team that makes the commitment to exceptional service a reality. "About" is the place where the customer can connect with the heart of the establishment.
 
-![Screenshot](assets/images/about.JPG
+![Screenshot](assets/images/about.JPG)
